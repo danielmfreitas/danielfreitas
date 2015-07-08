@@ -4,7 +4,7 @@
   <title><![CDATA[Daniel Freitas]]></title>
   <link href="http://danielmfreitas.github.io/danielfreitas/atom.xml" rel="self"/>
   <link href="http://danielmfreitas.github.io/danielfreitas/"/>
-  <updated>2015-07-08T00:49:59-07:00</updated>
+  <updated>2015-07-08T01:41:11-07:00</updated>
   <id>http://danielmfreitas.github.io/danielfreitas/</id>
   <author>
     <name><![CDATA[Daniel Freitas]]></name>
@@ -12,5 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Configurando Este Blog]]></title>
+    <link href="http://danielmfreitas.github.io/danielfreitas/blog/2015/07/08/configurando-este-blog/"/>
+    <updated>2015-07-08T01:17:21-07:00</updated>
+    <id>http://danielmfreitas.github.io/danielfreitas/blog/2015/07/08/configurando-este-blog</id>
+    <content type="html"><![CDATA[<p>Este é um post inicial para testar a ferramenta de blog Octopress.</p>
+
+<p>Teste.</p>
+
+<p>2</p>
+
+<p>3</p>
+]]></content>
+  </entry>
   
 </feed>
