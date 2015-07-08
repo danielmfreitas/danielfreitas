@@ -13,6 +13,8 @@ group :development do
   gem 'sass-globbing', '~> 1.0.0'
   gem 'rb-fsevent', '~> 0.9'
   gem 'stringex', '~> 1.4.0'
+  gem 'octopress-multilingual'
 end
 
 gem 'sinatra', '~> 1.4.2'
+gem 'i18n', '~> 0.6.9'

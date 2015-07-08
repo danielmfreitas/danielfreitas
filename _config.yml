@@ -7,7 +7,7 @@ title: Daniel Freitas
 subtitle: Blog Pessoal
 author: Daniel Freitas
 simple_search: https://www.google.com/search
-description:
+description: Blog pessoal de Daniel Freitas
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -20,6 +20,20 @@ subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
+
+# Directory for locale .yml files.
+# (Defaults to "locale" if not defined here.)
+locale_dir: locale
+
+# Either a strftime format string ("%F") or :default, :long, :short
+# (Defaults to :default if not defined here.)
+# (See your locale files for details, or to create new symbols!)
+#date_format: :default
+
+# Default language for the site.
+# (Defaults to "en" if not defined here.)
+# (See your locale files for available language codes!)
+lang: pt-BR
 
 # ----------------------- #
 #    Jekyll & Plugins     #
